@@ -42,7 +42,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 coming soon <a name="live-demo"></a>
 
 Click on the link to view the Art Summit website.
 
